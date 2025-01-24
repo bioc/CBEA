@@ -1,6 +1,6 @@
 Package: CBEA
 Title: Competitive Balances for Taxonomic Enrichment Analysis in R
-Version: 1.7.0
+Version: 1.7.1
 Date: 2022-03-03
 Authors@R: 
     person("Quang", "Nguyen", , "quangpmnguyen@gmail.com", role = c("aut", "cre"),
@@ -61,3 +61,4 @@ Encoding: UTF-8
 LazyData: false
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.2
+PackageStatus: Deprecated
